@@ -21,7 +21,7 @@
 ![2](https://github.com/mustafaulas01/BingoGame/assets/94428632/683dfc24-e588-4c92-b0db-3bf3a0829ccc)
 
 > [!NOTE]
-> This program has been adapted to the bingo game. It is a game very similar to Bingo game.
+> This program has been adapted to the tombala game. It is a game very similar to Bingo game.
 
 
 
